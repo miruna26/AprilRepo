@@ -1,4 +1,5 @@
 x = 1
 x = 49
-y = x
-print(y)
+print(x)
+y = 79
+z = x + y 
