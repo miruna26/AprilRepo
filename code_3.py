@@ -1,1 +1,1 @@
-print("Miruna")
+print("Miruna is tired")
